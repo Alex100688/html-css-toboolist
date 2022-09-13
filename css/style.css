@@ -16,6 +16,23 @@ header{margin: 15px 20px;
 }
 h1{
     vertical-align: middle;
-    display: inline-block;
-    
+    display: inline-block;  
+}
+.container{
+    max-width: 700px;
+    margin: auto;
+    background-color: white;
+    margin-top: 15px;
+}
+.first-button{
+    border-radius: 5px;
+    border: 0px solid  #45ABEA ;
+    background-color: #45ABEA;
+    color: white;
+}
+.second-button{
+    border-radius: 5px;
+    border: 0px solid lightslategray;
+    color: lightslategray;
+    margin-left: 5px;
 }
