@@ -36,3 +36,33 @@ h1{
     color: lightslategray;
     margin-left: 5px;
 }
+.option{
+    margin-top: 40px;
+    
+}
+.check-green{
+    border-radius: 50px;
+    border: 1px solid #64C0A9; 
+    width:24px;
+    height:24px;
+    text-align:center;
+    color:#64C0A9;
+    margin-top: 15px;
+    display:inline-block;     
+}
+.selection{
+    display: inline-block;
+}
+.task-1{
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+    border-radius: 12px;
+    border: 0px solid  #45ABEA ;
+    background-color: #45ABEA;
+    color: white;
+    font-size: 11px;
+    text-align: center;
+    vertical-align: middle;
+
+}
