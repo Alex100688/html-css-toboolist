@@ -24,6 +24,9 @@ h1{
     background-color: white;
     margin-top: 15px;
 }
+/* h2{
+    margin-top: 30px;
+} */
 .first-button{
     border-radius: 5px;
     border: 0px solid  #45ABEA ;
@@ -50,6 +53,16 @@ h1{
     margin-top: 15px;
     display:inline-block;     
 }
+.check-red{ border-radius: 50px;
+    border: 1px solid red;
+    width:24px;
+    height:24px;
+    text-align:center;
+    color:red;
+    margin-top: 15px;
+    display:inline-block;
+
+}
 .selection{
     display: inline-block;
 }
@@ -60,6 +73,44 @@ h1{
     border-radius: 12px;
     border: 0px solid  #45ABEA ;
     background-color: #45ABEA;
+    color: white;
+    font-size: 11px;
+    text-align: center;
+    vertical-align: middle;
+
+}
+.task-2{
+    display: inline-block;
+    width: 66px;
+    height: 20px;
+    border-radius: 12px;
+    border: 0px solid #9C72E4;
+    background-color: #9C72E4; 
+    color: white;
+    font-size: 11px;
+    text-align: center;
+    vertical-align: middle;
+
+}
+.task-3{  display: inline-block;
+    width: 80px;
+    height: 20px;
+    border-radius: 12px;
+    border: 0px solid #64C0A9;
+    background-color: #64C0A9;
+    color: white;
+    font-size: 11px;
+    text-align: center;
+    vertical-align: middle;
+}
+.task-4{
+    display: inline-block;
+    width: 60px;
+    height: 18px;
+    line-height: 12px;
+    border-radius: 12px;
+    border: 0px solid#F29E33;
+    background-color:#F29E33;
     color: white;
     font-size: 11px;
     text-align: center;
