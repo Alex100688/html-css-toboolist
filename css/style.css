@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+body{font-family:'Roboto', sans-serif;
+    background-color: #F6F8F9;
+}
+header{margin: 15px 20px;
+    background-color: white;
+
+}
+.logo{
+    vertical-align: middle;
+    
+}
+h1{
+    vertical-align: middle;
+    display: inline-block;
+    
+}
